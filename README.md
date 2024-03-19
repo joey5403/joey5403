@@ -11,3 +11,4 @@
 joey5403/joey5403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![codewars](https://www.codewars.com/users/joeyzheng5403/badges/large)
