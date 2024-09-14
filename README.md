@@ -5,6 +5,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joey5403&show_icons=true)
 
+![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)
+
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=joey5403&layout=compact&card_width=444)
 
 <!---
