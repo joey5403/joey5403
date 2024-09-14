@@ -3,7 +3,7 @@ joey5403/joey5403 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m Joey Zheng.
-- :G: :N: :U: I’m interested in any thing opensource. Give me GNU or give me death!
+- :g: :n: :u: I’m interested in any thing opensource. Give me GNU or give me death!
 - :computer: I’m currently learning scala, clojure, rust and haskell.
 - :mailbox: Welcome to reach me admin@joeyzheng.tech
 - :fire: 
