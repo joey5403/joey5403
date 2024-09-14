@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joey Zheng.
 - 👀 I’m interested in any thing opensource, because GNU is my life.
 - 🌱 I’m currently learning scala, clojure, rust and haskell.
-- 📫 Welcome to reach me joeyzheng5403@gmail.com
+- 📫 Welcome to reach me admin@joeyzheng.tech
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joey5403&show_icons=true)
 
