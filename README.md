@@ -1,6 +1,8 @@
 <!---
 joey5403/joey5403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#computer
+
 --->
 - :wave: Hi, I’m Joey Zheng.
 - :flashlight: I’m interested in any thing opensource. Give me GNU or give me death!
