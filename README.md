@@ -14,5 +14,8 @@ You can click the Preview link to take a look at your changes.
 ![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)
 
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
-
+<!--
+![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=joey5403)
+-->
+![wakatime](https://wakatime.com/badge/user/9b541262-192b-4f1c-8c7b-6b225e3b59f9.svg)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com)
