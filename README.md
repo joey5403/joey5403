@@ -3,7 +3,7 @@ joey5403/joey5403 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m Joey Zheng.
-- 👀 I’m interested in any thing opensource, because GNU is my life.
+- 👀 I’m interested in any thing opensource. Give me GNU or give me death!
 - 🌱 I’m currently learning scala, clojure, rust and haskell.
 - 📫 Welcome to reach me admin@joeyzheng.tech
 
@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)
 
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com)
