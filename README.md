@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#computer
 
 --->
+![GIF](https://github.githubassets.com/images/mona-loading-dimmed.gif)
+
 - :wave: Hi, I’m Joey Zheng.
 - :flashlight: I’m interested in any thing opensource. Give me GNU or give me death!
 - :computer: I’m currently learning scala, clojure, rust and haskell.
