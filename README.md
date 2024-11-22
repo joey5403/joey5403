@@ -26,4 +26,4 @@ use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com)
 
-I really <i class="nf nf-fa-heart"></i> <i class="nf nf-custom-vim"></i>
+I really   
