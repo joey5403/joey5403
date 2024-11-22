@@ -10,7 +10,10 @@ use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file
 - :flashlight: I’m interested in any thing opensource. Give me GNU or give me death!
 - :computer: I’m currently learning scala, clojure, rust and haskell.
 - :mailbox: Welcome to reach me admin@joeyzheng.tech
-- :fire: 
+- :fire:
+
+I really   
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joey5403&theme=tokyonight&show_icons=true&count_private=true)
 
@@ -26,4 +29,3 @@ use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com)
 
-I really   
