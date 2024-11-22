@@ -19,6 +19,11 @@ I really   
 
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=joey5403&theme=catppuccin_mocha&layout=compact&card_width=444)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=joey5403&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=kotlin%2Ckotlin%2C058178%3Bpython%2Cpython%2Cec8d64%3Bspring%2Cspring%2C77fbdc%3B)
+
+
 ![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)
 
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
