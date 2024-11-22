@@ -15,15 +15,15 @@ use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file
 I really   
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joey5403&theme=tokyonight&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=joey5403&theme=catppuccin_mocha&show_icons=true&count_private=true)
 
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=joey5403&theme=tokyonight&layout=compact&card_width=444)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=joey5403&theme=catppuccin_mocha&layout=compact&card_width=444)
 
 ![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)
 
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
 
-![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=joey5403)
+![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=joey5403&theme=catppuccin_mocha)
 
 ![wakatime](https://wakatime.com/badge/user/9b541262-192b-4f1c-8c7b-6b225e3b59f9.svg)
 
