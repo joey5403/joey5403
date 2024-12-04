@@ -33,7 +33,7 @@ I really     
 
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
 
-![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=joey5403&theme=catppuccin-mocha)
+![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=joey5403&theme=catppuccin_mocha)
 
 ![wakatime](https://wakatime.com/badge/user/9b541262-192b-4f1c-8c7b-6b225e3b59f9.svg)
 
