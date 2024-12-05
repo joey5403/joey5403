@@ -9,6 +9,7 @@ use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file
 <img src="https://giscus.catppuccin.com/assets/loading_48x48.gif" style="width:100px"/>
 image copyright @catppuccin
 
+<img src="https://count.getloli.com/@joey5403.readme?name=joey5403.readme&theme=capoo-2&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
 - :wave: Hi, I’m Joey Zheng.
 - :flashlight: I’m interested in any thing opensource. Give me GNU or give me death!
