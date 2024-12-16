@@ -30,7 +30,7 @@ I really     
 
 
 
-![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)
+<!--![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)-->
 
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
 
