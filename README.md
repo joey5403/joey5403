@@ -13,7 +13,7 @@ image copyright @catppuccin
 
 - :wave: Hi, I’m Joey Zheng.
 - :flashlight: I’m interested in any thing opensource. Give me GNU or give me death!
-- :computer: I’m currently learning scala, clojure, rust and haskell.
+- :computer: I’m currently learning julia, rust right now.
 - :mailbox: Welcome to reach me admin@joeyzheng.tech
 - :fire:
 
