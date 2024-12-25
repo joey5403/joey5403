@@ -18,6 +18,7 @@ image copyright @catppuccin
 𝒥ℴℯ𝓎 𝒵𝒽ℯ𝓃ℊ
 𝓙𝓸𝓮𝔂 𝓩𝓱𝓮𝓷𝓰
 -->
+
 - :wave: Hi, I’m 𝕁𝕠𝕖𝕪 ℤ𝕙𝕖𝕟𝕘.
 - :flashlight: I’m interested in any thing opensource. Give me GNU or give me death!
 - :computer: I’m currently learning julia, rust right now.
