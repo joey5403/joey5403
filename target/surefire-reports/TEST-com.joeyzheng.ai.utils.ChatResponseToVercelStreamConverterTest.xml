@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="1.076" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="1.087" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/temurin-17-jdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/runner/work/joey5403/joey5403/target/surefire/surefirebooter-20250711131950722_3.jar /home/runner/work/joey5403/joey5403/target/surefire 2025-07-11T13-19-50_646-jvmRun1 surefire-20250711131950722_1tmp surefire_0-20250711131950722_2tmp"/>
+    <property name="sun.java.command" value="/home/runner/work/joey5403/joey5403/target/surefire/surefirebooter-20250711132147877_3.jar /home/runner/work/joey5403/joey5403/target/surefire 2025-07-11T13-21-47_800-jvmRun1 surefire-20250711132147877_1tmp surefire_0-20250711132147877_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/runner/work/joey5403/joey5403/target/test-classes:/home/runner/work/joey5403/joey5403/target/classes:/home/runner/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar:/home/runner/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar:/home/runner/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar:/home/runner/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.3/junit-jupiter-5.9.3.jar:/home/runner/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar:/home/runner/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/runner/.m2/repository/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar:/home/runner/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/runner/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.3/junit-jupiter-params-5.9.3.jar:/home/runner/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar:/home/runner/.m2/repository/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar:/home/runner/.m2/repository/org/mockito/mockito-core/5.3.1/mockito-core-5.3.1.jar:/home/runner/.m2/repository/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4.jar:/home/runner/.m2/repository/net/bytebuddy/byte-buddy-agent/1.14.4/byte-buddy-agent-1.14.4.jar:/home/runner/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/runner/work/joey5403/joey5403/target/surefire/surefirebooter-20250711131950722_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/runner/work/joey5403/joey5403/target/surefire/surefirebooter-20250711132147877_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.15+6"/>
     <property name="user.name" value="runner"/>
@@ -53,11 +53,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testConvertToVercelStreamWithSimpleText" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="1.015"/>
+  <testcase name="testConvertToVercelStreamWithSimpleText" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="1.024"/>
   <testcase name="testConvertToVercelStreamChunked" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.008"/>
-  <testcase name="testConvertToVercelStreamWithNullText" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.005"/>
+  <testcase name="testConvertToVercelStreamWithNullText" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.009"/>
   <testcase name="testConvertToVercelStreamWithNullUsage" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.004"/>
-  <testcase name="testConvertToVercelStreamWithMultipleGenerations" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.006"/>
+  <testcase name="testConvertToVercelStreamWithMultipleGenerations" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.005"/>
   <testcase name="testConvertToVercelStreamWithEmptyText" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.005"/>
-  <testcase name="testConvertToVercelStreamWithSpecialCharacters" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.005"/>
+  <testcase name="testConvertToVercelStreamWithSpecialCharacters" classname="com.joeyzheng.ai.utils.ChatResponseToVercelStreamConverterTest" time="0.004"/>
 </testsuite>
