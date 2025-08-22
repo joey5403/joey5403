@@ -22,7 +22,7 @@ image copyright @catppuccin
 - :wave: Hi, I’m 𝕁𝕠𝕖𝕪 ℤ𝕙𝕖𝕟𝕘.
 - :flashlight: I’m interested in anything opensources. Give me GNU or give me death!
 - :computer: I’m currently learning julia-lang, Rust right now.
-- :mailbox: Welcome to reach me admin@joeyzheng.tech
+- :mailbox: Welcome to reach me admin@joey5403.tech
 - :fire:
 
 
