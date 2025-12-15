@@ -38,6 +38,8 @@ image copyright @catppuccin
 
 <!--[GitHub Streak](https://streak-stats.demolab.com?user=joey5403&theme=catppuccin-mocha)-->
 
+![GithubSnake](https://raw.githubusercontent.com/joey5403/joey5403/refs/heads/snake/github-snake.svg)
+
 <!-- Tech Stack visualization - Vercel serverless with compact layout -->
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=4&theme=catppuccin_mocha&width=695&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=kotlin%2Ckotlin%2Ccdb75c%3Bpython%2Cpython%2C92eac2%3Blua%2Clua%2C97424b%3Bclojure%2Cclojure%2Cb5d811%3Bhaskell%2Chaskell%2C018e84%3Bjavascript%2Cjavascript%2Ccd8efa%3B&line2=linux%2Clinux%2C2fce4d%3Bvim%2Cvim%2C465ad6%3Bneovim%2Cneovim%2Cb555bc%3Bjetbrains%2Cjetbrains%2C4d95e5%3Bjulia%2Cjulia%2C089b9c%3B&line3=spring%2Cspring%2C39c186%3Bgraphql%2Cgraphql%2Cb2dc33%3Bdjango%2Cdjango%2Cb7e723%3B&line4=mysql%2Cmysql%2Cfafd3a%3Bpostgresql%2Cpostgresql%2C8e120b%3B)
 
