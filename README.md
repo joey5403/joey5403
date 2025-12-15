@@ -3,12 +3,17 @@ joey5403/joey5403 is a special repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#computer
 
+Performance Note: This README uses several external badge/stats services that load dynamically.
+Images are proxied through GitHub's camo service for security. Most services support CDN delivery
+and server-side caching for better performance. Using compact layouts where available helps reduce
+image sizes and loading times.
 --->
 <!--https://github.githubassets.com/images/mona-loading-dimmed.gif-->
 
 <img src="https://giscus.catppuccin.com/assets/loading_48x48.gif" style="width:100px"/>
 image copyright @catppuccin
 
+<!-- Page visit counter - cached and lightweight -->
 <img src="https://count.getloli.com/@joey5403.readme?name=joey5403.readme&theme=capoo-2&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="width:100px">
 <!-- 
 𝕁𝕠𝕖𝕪𝟝𝟜𝟘𝟛
@@ -25,21 +30,26 @@ image copyright @catppuccin
 - :mailbox: Welcome to reach me admin@joey5403.tech
 - :fire:
 
-
+<!-- GitHub Stats - Vercel serverless functions with caching -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=joey5403&theme=catppuccin_mocha&show_icons=true&count_private=true)
 
+<!-- Top Languages - uses compact layout for faster loading -->
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=joey5403&theme=catppuccin_mocha&layout=compact&card_width=444)
 
 <!--[GitHub Streak](https://streak-stats.demolab.com?user=joey5403&theme=catppuccin-mocha)-->
 
+<!-- Tech Stack visualization - Vercel serverless with compact layout -->
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=4&theme=catppuccin_mocha&width=695&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=kotlin%2Ckotlin%2Ccdb75c%3Bpython%2Cpython%2C92eac2%3Blua%2Clua%2C97424b%3Bclojure%2Cclojure%2Cb5d811%3Bhaskell%2Chaskell%2C018e84%3Bjavascript%2Cjavascript%2Ccd8efa%3B&line2=linux%2Clinux%2C2fce4d%3Bvim%2Cvim%2C465ad6%3Bneovim%2Cneovim%2Cb555bc%3Bjetbrains%2Cjetbrains%2C4d95e5%3Bjulia%2Cjulia%2C089b9c%3B&line3=spring%2Cspring%2C39c186%3Bgraphql%2Cgraphql%2Cb2dc33%3Bdjango%2Cdjango%2Cb7e723%3B&line4=mysql%2Cmysql%2Cfafd3a%3Bpostgresql%2Cpostgresql%2C8e120b%3B)
 
 <!--  ![LeetcodeStats](https://leetcode.card.workers.dev/joey5403?theme=dark&font=baloo)  -->
 
+<!-- Codewars badge - static badge from codewars.com -->
 ![codewars](https://www.codewars.com/users/joey5403/badges/large)
 
+<!-- WakaTime Stats - uses compact layout for better performance -->
 ![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=joey5403&theme=catppuccin_mocha&layout=compact)
 
+<!-- WakaTime badge - lightweight SVG badge -->
 ![wakatime](https://wakatime.com/badge/user/9b541262-192b-4f1c-8c7b-6b225e3b59f9.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com)

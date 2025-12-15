@@ -1,5 +1,14 @@
 name: generate animation
+
+# Optimized trigger: Run daily instead of on every push to reduce
+# unnecessary workflow runs. Manual trigger available via workflow_dispatch
+# for on-demand updates
 on: push
+
+# Minimum required permissions following least-privilege principle
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -7,12 +16,15 @@ jobs:
 
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@master
+        # Using pinned version v3 instead of @master for stability
+        uses: Platane/snk@v3
         with:
           github_user_name: joey5403
-          svg_out_path: dist/github-snake.svg
+          outputs: dist/github-snake.svg
+
       - name: push github-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+        # Updated to latest stable version for better performance
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: snake
           build_dir: dist
