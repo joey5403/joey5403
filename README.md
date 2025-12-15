@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 use cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#computer
 
 Performance Note: This README uses several external badge/stats services that load dynamically.
-These services are cached by GitHub and most support CDN delivery for optimal performance.
+Images are proxied through GitHub's camo service for security. Most services support CDN delivery
+and server-side caching for better performance. Using compact layouts where available helps reduce
+image sizes and loading times.
 --->
 <!--https://github.githubassets.com/images/mona-loading-dimmed.gif-->
 
