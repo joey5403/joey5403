@@ -23,7 +23,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: joey5403
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
 
       - name: push github-snake.svg to the output branch
         # Updated to latest stable version for better performance
