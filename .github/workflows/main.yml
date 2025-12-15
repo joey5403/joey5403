@@ -3,10 +3,7 @@ name: generate animation
 # Optimized trigger: Run daily instead of on every push to reduce
 # unnecessary workflow runs. Manual trigger available via workflow_dispatch
 # for on-demand updates
-on:
-  schedule:
-    - cron: "0 0 * * *" # Run daily at midnight UTC
-  workflow_dispatch: # Allow manual trigger
+on: push
 
 # Minimum required permissions following least-privilege principle
 permissions:
